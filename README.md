@@ -9,6 +9,7 @@ Building useful apps and tools with AI & Python — for small businesses and peo
 
 | Project | What it is |
 |---|---|
+| [studio-series](https://github.com/fearless0712/studio-series) | Offline-first business apps for small trades: architecture, design decisions and test results (vanilla JS, file://, CSP, 1,285 unit tests) |
 | [misaneco-tools](https://github.com/fearless0712/misaneco-tools) | Free browser tools and guides for small businesses (paperwork, Excel, automation, security). JA/EN |
 | [equa](https://github.com/fearless0712/equa) | Official EQUA site |
 | [ai-localization-app](https://github.com/fearless0712/ai-localization-app) | JSON/CSV localization workflow with AI-assisted translation and QA |
